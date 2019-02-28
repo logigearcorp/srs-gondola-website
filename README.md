@@ -2,7 +2,7 @@
 This repository contains the Software Requirement Specification document and related artifacts that support the development of the Gondola website.
 * Domain: www.gondolatest.com
 * SRS document: www.github.com/thucldnguyen/srs-gondola-website
-* Current version: v1.0.0
+* Current version: v1.0.1
 * Source code repository: [TBD]
 
 # About Gondola
@@ -14,13 +14,13 @@ The Gondola website's frontend must follow the below structure.
 Home (Why Gondola?)
     +-- Features
     +-- Pricing
-    +-- Free Download
     +-- Resources
         +-- Docs
         +-- Tutorials        
     +-- Blog    
     +-- About Us
-    +-- Contact Us
+    +-- Free Trial (CTA)
+    +-- Contact Us (CTA)
     +-- EULA
     +-- Privacy Policy
 ~~~~
@@ -47,7 +47,7 @@ Backend users must be able to CRUD contents displayed on the frontend. Frontend 
 Please check out the images inside the `./wireframes` folder.
 
 ## HTTPS Support
-This website must support `https` protocol.
+This website must support `https` protocol using **Letsencrypt**.
 
 ## Frontend Localization
 Visitors must be able to switch between multiple languages following the below priority.
@@ -92,7 +92,8 @@ All prospects will be able to receive email notifications from us.
 > * This website's email notification feature has nothing to do with email marketing campaigns in Pardot.
 
 ## Analytics
-Google Analytics and basic SEO tools provided by WordPress must be supported.
+* Google Analytics and basic SEO tools provided by WordPress must be supported.
+* Yoast SEO plugin (free) must be preinstalled
 
 # Out-scope
 The following functions are not necessary in the current version of the website.
