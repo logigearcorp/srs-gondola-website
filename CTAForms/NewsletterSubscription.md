@@ -8,7 +8,7 @@ Field | Mandatory | Validation | Example
 ------|-----------|------------|--------
 Name | Y | Length < 100 chars | John Doe
 Work email | Y | Valid email address | john.doe@supercoolcorp.com
-
+Opt-in | Y | default: unchecked | Display text: "I would like to subscribe to updates from LogiGear". Only when users check this checkbox, we enable the Subscribe button
 
 ## Position
 * Subscription box on Home page at www.gondolatest.com
