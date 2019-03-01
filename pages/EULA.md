@@ -63,7 +63,7 @@ UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL LICENSOR BE LIABLE FOR ANY I
 
 ## 7. Export Law Assurances
 
-You may not use or otherwise export or re-export the Software except as authorized by United States law and the laws of the jurisdiction in which the Software was obtained. In particular, but without limitation, ythe Software may not be transferred, exported, re-exported or used (i) into (or to a national or resident of) any U.S. embargoed country or (ii) transferred, exported, re-exported or used in any manner in violation of the export laws of the United States or of any other country or any other export laws, restrictions or regulations.
+You may not use or otherwise export or re-export the Software except as authorized by United States law and the laws of the jurisdiction in which the Software was obtained. In particular, but without limitation, the Software may not be transferred, exported, re-exported or used (i) into (or to a national or resident of) any U.S. embargoed country or (ii) transferred, exported, re-exported or used in any manner in violation of the export laws of the United States or of any other country or any other export laws, restrictions or regulations.
 
 ## 8. Government End Users
 
