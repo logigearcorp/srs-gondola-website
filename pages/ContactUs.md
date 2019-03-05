@@ -1,5 +1,7 @@
-# Contact Us
+# Contact Us page
 This document describes the `Contact Us` CTA form.
+* URL: https://www.gondolatest.com/en/contact-us
+* Wireframe: [/wireframes/contact-us-page.svg](../wireframes/contact-us-page.svg)
 
 ## Fields
 Data fields on the form are listed below.
@@ -14,20 +16,16 @@ Country | N | Pick among a list | United States
 Business title | **N** | N/a | Senior QA Engineer
 Message | Y | N/a | I want to buy 10 licenses
 
-## Position
-* URL: www.gondolatest.com/contact-us
-* `Contact Us` menu item on the main Nav-bar
-
 ## Functionality
-* Must have CAPTCHA
-* When the user submit the form, send an email to support@gondolatest.com.
+* Must prevent spamming by reCAPTCHA v3
+* When the user submits the form, send an email to support@gondolatest.com.
 
   ```
   Title: Somebody Contacted Us
   
   Content:
   Hi Sales/Support, 
-  The following prospect has sent a message.
+  The following prospect has sent us a message.
   [All data collected]
   Please respond as soon as possible. 
   This email address has been added to Pardot.
@@ -40,7 +38,7 @@ Message | Y | N/a | I want to buy 10 licenses
 * Send this email to the registered email address: 
   
   ```
-  Title: Thank You for Contacting Us
+  Title: Thank You for Contacting LogiGear
   
   Content:
   Hi [Name], 
@@ -49,7 +47,7 @@ Message | Y | N/a | I want to buy 10 licenses
   Our Customer Support team will respond to you as soon as possible. Stay tuned.
   Thanks.
   Best regards,
-  Gondola Team
+  Gondola Team @ LogiGear
   ```
 
 > Contact designer for the beautified version of this email.
