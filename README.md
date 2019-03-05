@@ -2,7 +2,7 @@
 This repository contains the Software Requirement Specification document and related artifacts that support the development of the Gondola website.
 * Domain: www.gondolatest.com
 * SRS document: www.github.com/thucldnguyen/srs-gondola-website
-* Current version: v1.0.2
+* Current version: v1.0.3
 * Source code repository: TFS
 
 # About Gondola
@@ -78,15 +78,14 @@ This section must satisfy the following requirements.
 * Visitors must be able to share articles on social media (Facebook and Twitter)
 
 ## CTA forms
-We display the following CTA forms on our website.
-* [Newsletter Subscription Form](./CTAForms/NewsletterSubscription.md): subscribe to our newsletters. 
-* [Free Trial Form](./CTAForms/FreeDownload.md): download the Gondola Essential package for free. 
-* [Contact Us](./CTAForms/ContactUs.md): send an email to our Customer Support. 
+We have the following CTA forms on our website.
+* __Newsletter Subscription Form__ is displayed as a section on Home page. 
+* [Free Trial Form](./pages/FreeTrial.md): try out Gondola for free. 
+* [Contact Us](./pages/ContactUs.md): send an email to our Customer Support. 
 
 All prospects will be able to receive email notifications from us.  
 
 > NOTE: 
-> * Exact position, visual design, and functionality of each CTA form will be described in `./CTAForms`.
 > * This website's email notification feature has nothing to do with email marketing campaigns in Pardot.
 
 ## Analytics
