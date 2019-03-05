@@ -53,7 +53,7 @@ Question-mark hover-button | N/a | N/a | Display this text when users hover on t
   We have received your subscription request. Stay tuned for newsletters from us.
   Thanks.
   Best regards,
-  Gondola Team
+  Gondola Team @ LogiGear
   ```
 
 > Contact designer for the beautified version of this email.
