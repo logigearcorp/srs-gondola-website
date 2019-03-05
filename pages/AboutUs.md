@@ -1,5 +1,5 @@
 # About-Us Page
-* URL: https://www.gondolatest.com/about-us
+* URL: https://www.gondolatest.com/en/about-us
 * Wireframe: [/wireframes/about-us-page.svg](../wireframes/about-us-page.svg)
 
 ## Behaviors
