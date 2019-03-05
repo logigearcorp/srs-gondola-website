@@ -4,17 +4,7 @@ This document describes the `Contact Us` CTA form.
 * Wireframe: [/wireframes/contact-us-page.svg](../wireframes/contact-us-page.svg)
 
 ## Fields
-Data fields on the form are listed below.
-
-Field | Mandatory | Validation | Example
-------|-----------|------------|--------
-Name | Y | Length < 100 chars | John Doe
-Work email | Y | Valid email address | john.doe@supercoolcorp.com
-Company | Y | Length < 100 chars | Super Cool Corp
-Phone | N | N/a | 650-111-8989
-Country | N | Pick among a list | United States
-Business title | **N** | N/a | Senior QA Engineer
-Message | Y | N/a | I want to buy 10 licenses
+Check out the fields displayed on the wireframe.
 
 ## Functionality
 * Must prevent spamming by reCAPTCHA v3

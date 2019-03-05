@@ -4,19 +4,7 @@ This document describes the `Free Trial` CTA form.
 * Wireframe: [/wireframes/free-trial-page.svg](../wireframes/free-trial-page.svg)
 
 ## Fields
-Data fields on the form are listed below.
-
-Field | Mandatory | Validation | Example
-------|-----------|------------|--------
-Name | Y | Length < 100 chars | John Doe
-Work email | Y | Valid email address | john.doe@supercoolcorp.com
-Company | Y | Length < 100 chars | Super Cool Corp
-Phone | **Y** | N/a | 650-111-8989
-Country | N | Pick among a list | United States
-Testing needs | Y | Pick among a list | Web Testing & Mobile Testing
-Business title | Y | N/a | Senior QA Engineer
-Partner referral | N | Pick from a list | SEPTech
-I accept EULA & Privacy Policy | Y | Checkbox | N/a
+Check out the fields displayed on the wireframe
 
 ## Functionality
 * Must repvent spamming using reCAPTCHA v3
