@@ -46,7 +46,7 @@ I accept EULA & Privacy Policy | Y | Checkbox | N/a
   We have received your request to try out Gondola for free. Our Customer Support team will respond to you as soon as possible. Stay tuned.
   Thanks.
   Best regards,
-  Gondola Team
+  Gondola Team @ LogiGear
   ```
 
 > Contact designer for the beautified version of this email.
