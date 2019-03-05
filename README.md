@@ -25,9 +25,9 @@ Home (Why Gondola?)
 
 # Non-functional Requirements
 The Gondola website must satisfy the below non-functional requirements.
-* Lightning FAST (response time <= 4 seconds)
+* FAST (response time <= 4 seconds)
 * Responsive design on Desktop, Mobile and Tablet
-* Beautifully designed look & feel on the frontend
+* Beautiful look & feel on the frontend
 * Different color theme than www.pombuilder.com, www.logigear.com and www.testarchiect.com
 
 # Functional Requirements
@@ -103,5 +103,5 @@ The following functions are not necessary in the current version of the website.
 Some technical considerations we have to take into account:
 * Should we choose WordPress as our CMS framework? >> Yes
 * What is the most cost-effective hosting service? >> Digital Ocean
-* How to deploy new code by only 1 click?
-* How do we secure the website?
+* How to deploy new code by only 1 click? >> We work directly on the production droplet
+* How do we secure the website? >> TBD
