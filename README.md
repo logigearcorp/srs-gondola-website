@@ -2,8 +2,8 @@
 This repository contains the Software Requirement Specification document and related artifacts that support the development of the Gondola website.
 * Domain: www.gondolatest.com
 * SRS document: www.github.com/thucldnguyen/srs-gondola-website
-* Current version: v1.0.1
-* Source code repository: [TBD]
+* Current version: v1.0.2
+* Source code repository: TFS
 
 # About Gondola
 Gondola is a freemium test automation framework that makes Continuous Delivery a reality. Gondola is tester-friendly while powerful for SDET and developers alike.
@@ -14,10 +14,8 @@ The Gondola website's frontend must follow the below structure.
 Home (Why Gondola?)
     +-- Features
     +-- Pricing
-    +-- Resources
-        +-- Docs
-        +-- Tutorials        
-    +-- Blog    
+    +-- Docs
+    +-- Blog (temporarily hidden)    
     +-- About Us
     +-- Free Trial (CTA)
     +-- Contact Us (CTA)
@@ -73,7 +71,7 @@ When frontend users fill a CTA form and submit their personal data, we'll store 
 ## Pardot Integration
 All registered email addresses must be added to Pardot's database. For credentials of our corporate Pardot account, please contact _Thuc Nguyen_ (thuc.nguyen@logigear.com).
 
-## Blog Page
+## Blog Page (temporarily hidden)
 This section must satisfy the following requirements. 
 * Frontend users must be able to read posts
 * Posts must be paginated
@@ -82,7 +80,7 @@ This section must satisfy the following requirements.
 ## CTA forms
 We display the following CTA forms on our website.
 * [Newsletter Subscription Form](./CTAForms/NewsletterSubscription.md): subscribe to our newsletters. 
-* [Free Download Form](./CTAForms/FreeDownload.md): download the Gondola Essential package for free. 
+* [Free Trial Form](./CTAForms/FreeDownload.md): download the Gondola Essential package for free. 
 * [Contact Us](./CTAForms/ContactUs.md): send an email to our Customer Support. 
 
 All prospects will be able to receive email notifications from us.  
@@ -103,8 +101,7 @@ The following functions are not necessary in the current version of the website.
 
 # Technical Considerations
 Some technical considerations we have to take into account:
-* Should we choose WordPress as our CMS framework?
-* What is the best CSS framework for responsive web design?
-* What is the most cost-effective hosting service?
+* Should we choose WordPress as our CMS framework? >> Yes
+* What is the most cost-effective hosting service? >> Digital Ocean
 * How to deploy new code by only 1 click?
 * How do we secure the website?
