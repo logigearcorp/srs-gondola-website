@@ -6,16 +6,16 @@ Data fields on the form that users must fill in.
 
 Field | Mandatory | Validation | Example
 ------|-----------|------------|--------
-Name | Y | Length < 100 chars | John Doe
 Work email | Y | Valid email address | john.doe@supercoolcorp.com
 Opt-in | Y | default: unchecked | Display text: "I would like to subscribe to updates from LogiGear". Only when users check this checkbox, we enable the Subscribe button
+Question-mark hover-button | N/a | N/a | Display this text when users hover on the question mark: "You will occasionally receive newsletters about product updates, testing best practices and events from us"
 
 ## Position
 * Subscription box on Home page at www.gondolatest.com
 
 
 ## Functionality
-* Must have CAPTCHA
+* Must prevent spamming by reCAPTCHA v3
 * When the user submit the form, send an email to support@gondolatest.com.
 
   ```
