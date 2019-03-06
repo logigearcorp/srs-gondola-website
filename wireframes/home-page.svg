@@ -61,8 +61,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="492.18423"
-     inkscape:cy="707.49064"
+     inkscape:cx="323.48875"
+     inkscape:cy="1620.8047"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -817,61 +817,61 @@
          y="-96.086807"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Docs</tspan></text>
     <rect
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.296994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3123129;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1106"
        width="254"
-       height="100.01247"
+       height="110.5958"
        x="-6.0159282e-14"
        y="34.925034" />
     <circle
        style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34921867;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1108"
        cx="100.31334"
-       cy="89.637924"
+       cy="102.33791"
        r="31.429682" />
     <circle
        style="display:inline;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34773383;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1108-8"
        cx="153.55302"
-       cy="90.011978"
+       cy="102.71198"
        r="31.296047" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="82.020836"
-       y="92.604172"
+       y="105.30418"
        id="text1131"><tspan
          sodipodi:role="line"
          id="tspan1129"
          x="82.020836"
-         y="92.604172"
+         y="105.30418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Open Source</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="140.22917"
-       y="92.604172"
+       y="105.30418"
        id="text1131-4"><tspan
          sodipodi:role="line"
          id="tspan1129-7"
          x="140.22917"
-         y="92.604172"
+         y="105.30418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Commercial</tspan></text>
     <path
        style="fill:none;stroke:#2578ff;stroke-width:0.67702532;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 126.86204,89.958337 v 29.104163 0"
+       d="m 126.86204,102.65836 v 29.10422 0"
        id="path1151"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="114.82919"
-       y="125.67673"
+       y="138.37657"
        id="text1155"><tspan
          sodipodi:role="line"
          id="tspan1153"
          x="114.82919"
-         y="125.67673"
+         y="138.37657"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Gondola</tspan></text>
     <g
        transform="translate(-1.3229159,-107.15612)"
@@ -879,7 +879,7 @@
        id="g5393" />
     <g
        id="g1201"
-       transform="translate(99.483143,-82.285466)">
+       transform="translate(99.483143,-70.643792)">
       <path
          inkscape:connector-curvature="0"
          id="rect5362"
@@ -930,18 +930,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="82.139862"
-       y="46.037491"
+       x="126.79846"
+       y="50.270836"
        id="text5356-5-2"><tspan
          sodipodi:role="line"
          id="tspan5354-4-4"
-         x="82.139862"
-         y="46.037491"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">The Best of Both Worlds</tspan></text>
+         x="126.79846"
+         y="50.270836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Open Source or Commercial?</tspan><tspan
+         sodipodi:role="line"
+         x="126.79846"
+         y="63.500004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1060">How About The Best of Both Worlds</tspan></text>
     <g
        style="display:inline;opacity:1"
        id="g1201-1"
-       transform="translate(17.197935,-83.343816)">
+       transform="translate(17.197935,-71.702142)">
       <path
          inkscape:connector-curvature="0"
          id="rect5362-2"
@@ -988,7 +993,7 @@
     <g
        style="display:inline;opacity:1"
        id="g1201-1-0"
-       transform="translate(17.197935,-48.683396)">
+       transform="translate(17.197935,-39.687557)">
       <path
          inkscape:connector-curvature="0"
          id="rect5362-2-7"
@@ -1035,7 +1040,7 @@
     <g
        style="display:inline;opacity:1"
        id="g1201-1-2"
-       transform="translate(17.197935,-14.02297)">
+       transform="translate(17.197935,-7.6729675)">
       <path
          inkscape:connector-curvature="0"
          id="rect5362-2-70"
@@ -1082,7 +1087,7 @@
     <g
        style="display:inline;opacity:1"
        id="g1201-1-1"
-       transform="translate(100.27682,-47.757356)">
+       transform="translate(100.27682,-38.761517)">
       <path
          inkscape:connector-curvature="0"
          id="rect5362-2-2"
@@ -1129,7 +1134,7 @@
     <g
        style="display:inline;opacity:1"
        id="g1201-1-3"
-       transform="translate(100.27682,-13.229234)">
+       transform="translate(100.27682,-6.8792318)">
       <path
          inkscape:connector-curvature="0"
          id="rect5362-2-1"
