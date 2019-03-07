@@ -60,11 +60,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1448906"
-     inkscape:cx="477.32664"
-     inkscape:cy="494.94934"
+     inkscape:zoom="0.75833334"
+     inkscape:cx="424.2854"
+     inkscape:cy="575.4822"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -172,10 +172,10 @@
          inkscape:connector-curvature="0" />
     </g>
     <rect
-       style="opacity:0.9;fill:#545ef3;fill-opacity:0.97254902;stroke:none;stroke-width:0.184085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97254902"
+       style="opacity:0.9;fill:#545ef3;fill-opacity:0.97254902;stroke:none;stroke-width:0.16094524;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97254902"
        id="rect857"
        width="254"
-       height="202.14166"
+       height="154.51665"
        x="2.8421709e-14"
        y="31.35833" />
     <text
@@ -462,40 +462,209 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.42794108px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15174632"
-       x="119.0625"
-       y="138.77959"
-       id="text865-6-3-8-0"><tspan
-         sodipodi:role="line"
-         id="tspan863-5-7-3-5"
-         x="119.0625"
-         y="138.77959"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04656839px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.15174632">I accept the <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.04671383px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffff00"
-   id="tspan1731">End User License Agreement</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.42794132px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15174633"
-       x="119.0625"
-       y="152.53787"
-       id="text865-6-3-8-0-9"><tspan
-         sodipodi:role="line"
-         id="tspan863-5-7-3-5-4"
-         x="119.0625"
-         y="152.53787"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04656839px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.15174633">I accept the <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.04671383px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;stroke-width:0.15174633"
-   id="tspan1731-0">Privacy Policy</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.42794108px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15174632"
        x="80.697914"
-       y="164.1792"
+       y="137.19206"
        id="text865-6-3-6-5"><tspan
          sodipodi:role="line"
          id="tspan863-5-7-9-5"
          x="80.697914"
-         y="164.1792"
+         y="137.19206"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04656839px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.15174632">Your Message</tspan></text>
+    <g
+       id="g1205"
+       transform="translate(15.610428,6.879167)">
+      <g
+         id="g1135">
+        <rect
+           style="opacity:0.8;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:0.12314344;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect982"
+           width="44.979168"
+           height="42.333328"
+           x="19.049976"
+           y="196.45831" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="21.695812"
+           y="201.74998"
+           id="text986"><tspan
+             sodipodi:role="line"
+             id="tspan984"
+             x="21.695812"
+             y="201.74998"
+             style="stroke-width:0.26458332">LogiGear USA</tspan><tspan
+             sodipodi:role="line"
+             x="21.695812"
+             y="207.04166"
+             style="stroke-width:0.26458332"
+             id="tspan1070">Headquarters</tspan><tspan
+             sodipodi:role="line"
+             x="21.695812"
+             y="212.33331"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan988">1730 S. Amphlett Blvd, Suite 110,</tspan><tspan
+             sodipodi:role="line"
+             x="21.695812"
+             y="217.62498"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan990">Man Mateo, CA 94492</tspan><tspan
+             sodipodi:role="line"
+             x="21.695812"
+             y="222.91666"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan992">Tel +1 (800) 322-0333</tspan><tspan
+             sodipodi:role="line"
+             x="21.695812"
+             y="228.20831"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan994">Fax +1 650 572 2822</tspan></text>
+      </g>
+      <g
+         transform="translate(0.26458737)"
+         id="g1145">
+        <rect
+           style="display:inline;opacity:0.8;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:0.12314344;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect982-9"
+           width="44.979168"
+           height="42.333328"
+           x="65.352066"
+           y="196.45833" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="67.997902"
+           y="201.75"
+           id="text986-4"><tspan
+             sodipodi:role="line"
+             id="tspan984-2"
+             x="67.997902"
+             y="201.75"
+             style="stroke-width:0.26458332">LogiGear Japan</tspan><tspan
+             sodipodi:role="line"
+             x="67.997902"
+             y="207.04167"
+             style="stroke-width:0.26458332"
+             id="tspan1072">Yokohama</tspan><tspan
+             sodipodi:role="line"
+             x="67.997902"
+             y="212.33333"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan990-0">Kousei Daisan Bldg, 5F 2-12-11</tspan><tspan
+             sodipodi:role="line"
+             x="67.997902"
+             y="217.625"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1031">Shinyokohama, Kouhokuku,</tspan><tspan
+             sodipodi:role="line"
+             x="67.997902"
+             y="222.91667"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1033">Yokohama-city, 222 - 0033, Japan</tspan><tspan
+             sodipodi:role="line"
+             x="67.997902"
+             y="228.20833"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan994-5">Tel +81 50 3699 4492</tspan></text>
+      </g>
+      <g
+         transform="translate(0.52904555)"
+         id="g1156">
+        <rect
+           style="display:inline;opacity:0.8;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:0.12314344;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect982-9-7"
+           width="44.979168"
+           height="42.333328"
+           x="111.65429"
+           y="196.45833" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="114.3001"
+           y="201.75"
+           id="text986-4-3"><tspan
+             sodipodi:role="line"
+             id="tspan984-2-6"
+             x="114.3001"
+             y="201.75"
+             style="stroke-width:0.26458332">LogiGear Vietnam</tspan><tspan
+             sodipodi:role="line"
+             x="114.3001"
+             y="207.04167"
+             style="stroke-width:0.26458332"
+             id="tspan1074">Saigon</tspan><tspan
+             sodipodi:role="line"
+             x="114.3001"
+             y="212.33333"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1033-4">462 Phan Xich Long, Ward 2, Phu</tspan><tspan
+             sodipodi:role="line"
+             x="114.3001"
+             y="217.625"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1081">Nhuan District, Ho Chi Minh city,</tspan><tspan
+             sodipodi:role="line"
+             x="114.3001"
+             y="222.91667"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1125">Vietnam</tspan><tspan
+             sodipodi:role="line"
+             x="114.3001"
+             y="228.20833"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan994-5-4">Tel +84 28 3995 4072</tspan><tspan
+             sodipodi:role="line"
+             x="114.3001"
+             y="233.5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1083">Fax +84 28 3995 4076</tspan></text>
+      </g>
+      <g
+         id="g1166">
+        <rect
+           style="display:inline;opacity:0.8;fill:#000000;fill-opacity:0.19607843;stroke:none;stroke-width:0.12314344;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect982-9-7-9"
+           width="44.979168"
+           height="42.333328"
+           x="158.75"
+           y="196.45833" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="161.39583"
+           y="201.75"
+           id="text986-4-3-2"><tspan
+             sodipodi:role="line"
+             id="tspan984-2-6-2"
+             x="161.39583"
+             y="201.75"
+             style="stroke-width:0.26458332">LogiGear Vietnam</tspan><tspan
+             sodipodi:role="line"
+             x="161.39583"
+             y="207.04167"
+             style="stroke-width:0.26458332"
+             id="tspan1074-6">Da Nang</tspan><tspan
+             sodipodi:role="line"
+             x="161.39583"
+             y="212.33333"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1081-0">346 2/9 Street, Hai Chau District,</tspan><tspan
+             sodipodi:role="line"
+             x="161.39583"
+             y="217.625"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1123">Da Nang, Vietnam</tspan><tspan
+             sodipodi:role="line"
+             x="161.39583"
+             y="222.91667"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan994-5-4-9">Tel +84 236 3655 333</tspan><tspan
+             sodipodi:role="line"
+             x="161.39583"
+             y="228.20833"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             id="tspan1083-0">Fax +84 28 3995 4076</tspan></text>
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -514,7 +683,7 @@
     <g
        style="display:inline;opacity:1"
        id="g4988-1-5"
-       transform="translate(2.9103039,464.87286)">
+       transform="translate(2.9103039,437.35602)">
       <rect
          ry="3.96875"
          y="-34.660427"
@@ -938,26 +1107,23 @@
          y="249.09637"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04656839px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.15174635">API</tspan></text>
     <rect
-       style="display:inline;opacity:0.9;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.39687499;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect867-7-1"
-       width="8.560008"
-       height="5.9614625"
-       x="107.85666"
-       y="367.10056" />
-    <rect
-       style="display:inline;opacity:0.9;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.39687499;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect867-7-1-1"
-       width="8.560008"
-       height="5.9614625"
-       x="107.85666"
-       y="380.3298" />
-    <rect
        style="display:inline;opacity:0.9;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.39982891;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect867-7-1-1-0"
        width="66.429344"
        height="32.416862"
        x="107.85813"
-       y="391.70871" />
+       y="364.72079" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.42794156px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15174635"
+       x="81.499222"
+       y="431.80011"
+       id="text861-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan859-8-7"
+         x="81.499222"
+         y="431.80011"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.28382301px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.15174635">Give us a call or drop by to talk</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
