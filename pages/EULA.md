@@ -75,7 +75,7 @@ Licensee agrees to pay Licensor the fees set forth in each applicable invoice an
 
 ## 10. Maintenance Services
 
-Licensee may optionally elect to receive Annual Software Maintenance Services (“Maintenance”) which entitles Licensee for upgrades (if and when applicable), patches and defect fixes to existing License but does not include licenses to any new software modules or editions that are separately licensed in a new version. Maintenance will commence on the first anniversary of the License start date and automatically renew for full one-year periods, unless terminated by notification in writing no later than sixty ays prior to the renewal date. Annual Maintenance fees will be as specified in the applicable invoice. In the event of a lapse in Maintenance renewal, Licensee will be required to pay for all prior periods where Maintenance had lapsed before Maintenance would be renewed.
+Licensee may optionally elect to receive Annual Software Maintenance Services (“Maintenance”) which entitles Licensee for upgrades (if and when applicable), patches and defect fixes to existing License but does not include licenses to any new software modules or editions that are separately licensed in a new version. Maintenance will commence on the first anniversary of the License start date and automatically renew for full one-year periods, unless terminated by notification in writing no later than sixty days prior to the renewal date. Annual Maintenance fees will be as specified in the applicable invoice. In the event of a lapse in Maintenance renewal, Licensee will be required to pay for all prior periods where Maintenance had lapsed before Maintenance would be renewed.
 
 ## 11. Controlling Law and Severability
 
